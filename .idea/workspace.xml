@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26bc2235-24e5-4240-8990-5ffdbd03c6c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java-array/Array/src/GreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java-array/Array/src/com/gla/arrays/ArrayTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Que_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/01_practice_problems/Self_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/02-Java-Primitive-Data-Types/Que_21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/divisiblebyfive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/factorialfor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/natural.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/rocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/rocketfor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/smallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/springseason.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/stop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/stopwhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_01/whilenatural.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/bonus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/factors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/factorswhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/fizzbuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/fizzbuzzwhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/greatest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/greatestwhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/height.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/integers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/multiplewhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_02/table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/DayOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/abundent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/armstrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/harshadnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/leapyear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/powerwhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-programs/03-Programming-Constructs/Level_03/subjects.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3995e28KbJnJCj8E8U2s0O7tofQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/abhinav/Documents/Bridgelabz-Training-1Y&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26bc2235-24e5-4240-8990-5ffdbd03c6c1" name="Changes" comment="" />
+      <created>1770095539449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770095539449</updated>
+      <workItem from="1770095541030" duration="791000" />
+      <workItem from="1770096348636" duration="1297000" />
+      <workItem from="1770097720853" duration="36000" />
+      <workItem from="1770097897101" duration="13000" />
+      <workItem from="1770097945446" duration="1108000" />
+      <workItem from="1770175269089" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
